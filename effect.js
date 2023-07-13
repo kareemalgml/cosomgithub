@@ -200,7 +200,7 @@ $('document').ready(function(){
 var button = document.getElementById('myButton');
 button.addEventListener('click', function() {
   // Redirect the user to another page
-  window.location.href = '/happy-birthday-master/img gallery bs-5/img gallery/index.html';
+  window.location.href = 'https://kareemalgml.github.io/cosomgithub2/';
 });
 
 // Get the button element
